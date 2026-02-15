@@ -1,3 +1,6 @@
 body {
-    background-color: grey;
+    background: grey;
+}
+h1 {
+    text-align: center;
 }
